@@ -7,7 +7,7 @@ const SelfIntro = () => {
       <div className="text-7xl my-6 font-Inter text-slate-400  text-transparent bg-clip-text font-semibold">
         Yash Gourav Kar.
       </div>
-      <div className="text-7xl pb-4 font-Inter bg-gradient-to-r from-green-400 via-blue-500 to-purple-500 text-transparent bg-clip-text font-semibold ">
+      <div className="text-7xl pb-4 font-Inter bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold ">
         I build things for the web.
       </div>
       <h5 className="w-3/5 leading-7 font-Inter text-yellow-100/70 font-medium text-lg mt-8 mb-4 ">

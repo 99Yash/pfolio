@@ -7,6 +7,7 @@ module.exports = {
         Inter: "'Inter',sans-serif",
         dmMono: "'DM Mono',monospace",
         poppins: "'Poppins',sans-serif",
+        overpass: "'Overpass',sans-serif",
       },
     },
   },

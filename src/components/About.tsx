@@ -4,10 +4,10 @@ import WorkExp from "./WorkExp";
 const About = () => {
   return (
     <section id="about" className="relative h-screen pt-20 ml-96 ">
-      <code className="bg-gradient-to-r from-green-400 via-blue-500 to-purple-500 text-transparent bg-clip-text text-2xl ">
+      <code className="bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 text-transparent bg-clip-text text-2xl ">
         01.{" "}
       </code>
-      <span className="font-bold text-4xl font-poppins text-slate-400">
+      <span className="font-semibold text-4xl font-overpass text-slate-300/80">
         About Me
       </span>
       <span className="text-slate-600/80 ">

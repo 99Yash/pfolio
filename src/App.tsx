@@ -4,6 +4,7 @@ import SelfIntro from "./components/SelfIntro";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
 import WorkExp from "./components/WorkExp";
+import Projects from "./components/Projects";
 
 const App: FC = () => {
   return (
@@ -13,6 +14,7 @@ const App: FC = () => {
         <SelfIntro />
         <About />
         <WorkExp />
+        <Projects />
       </div>
     </div>
   );
