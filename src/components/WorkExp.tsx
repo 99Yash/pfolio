@@ -2,7 +2,7 @@ import React from "react";
 
 const WorkExp = () => {
   return (
-    <section id="jobs" className="ml-[30rem] pt-[12rem] mb-[12rem] ">
+    <section id="jobs" className="lg:pt-[12rem] pt-12 mb-[12rem] lg:ml-40">
       <code className="bg-gradient-to-r from-green-400 via-blue-500 to-purple-500 text-transparent bg-clip-text text-2xl">
         {" "}
         02.
@@ -12,7 +12,7 @@ const WorkExp = () => {
       </span>
       <span className="text-slate-600/80 ">
         &nbsp; &nbsp; &nbsp; &nbsp;
-        &nbsp;....................................................................................
+        &nbsp;..............................................
       </span>
       <div className="flex ">
         <div className=" mt-12 text-[1.05rem] cursor-pointer font-mono flex flex-col ">

@@ -1,20 +1,19 @@
 import React from "react";
-import WorkExp from "./WorkExp";
 
 const About = () => {
   return (
-    <section id="about" className="relative h-screen pt-20 ml-96 ">
+    <section id="about" className="h-screen lg:pt-24 lg:ml-44 ">
       <code className="bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 text-transparent bg-clip-text text-2xl ">
         01.{" "}
       </code>
-      <span className="font-semibold text-4xl font-overpass text-slate-300/80">
+      <span className="font-bold lg:text-4xl text-3xl font-overpass text-slate-300/80">
         About Me
       </span>
       <span className="text-slate-600/80 ">
         &nbsp; &nbsp; &nbsp; &nbsp;
-        &nbsp;....................................................................................
+        &nbsp;...........................................................................
       </span>
-      <p className="text-gray-400 font-Inter font-medium text-lg w-1/2 mt-4 pt-6 leading-7 ">
+      <p className="text-gray-400 font-Inter font-medium text-lg lg:w-1/2 mt-8 lg:mt-4 lg:pt-6 leading-7 ">
         Hello! My name is Yash and I enjoy creating things that live on the
         internet. My interest in web development started back in 2012 when I
         decided to try editing custom Tumblr themes — turns out hacking together
@@ -77,7 +76,7 @@ const About = () => {
           Here are a few technologies I’ve been working with recently:
           <br />
           <br />
-          <div className="grid grid-cols-2">
+          <div className="grid grid-cols-2 ">
             <li className="font-mono text-[1.05rem]">JavaScript (ES6+) </li>
             <li className="font-mono text-[1.05rem]">TypeScript</li>
             <li className="font-mono text-[1.05rem]">React</li>
